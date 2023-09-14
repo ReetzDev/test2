@@ -4,7 +4,7 @@ int main()
 int x,y,z;
 scanf("%d",&x);
 scanf("%d",&y);
-a=b+c;
+yo bro
 printf("%d",z);
 return 0;
 printf("Yes Okay")
